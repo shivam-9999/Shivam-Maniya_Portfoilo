@@ -32,6 +32,7 @@ function MyWork() {
               <h4 className="animate-charcter2"> Freelancer</h4>
               <div className="row d-flex justify-content-center">
                 <a
+                  href="#"
                   className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded"
                   target="_blank"
                 >
@@ -57,6 +58,7 @@ function MyWork() {
               <h4 className="animate-charcter2"> Freelancer</h4>
               <div className="row d-flex justify-content-center">
                 <a
+                  href="#"
                   className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded"
                   target="_blank"
                 >
@@ -77,6 +79,7 @@ function MyWork() {
               <h4 className="animate-charcter2"> Exomoon Infotech</h4>
               <div className="row d-flex justify-content-center">
                 <a
+                  href="#"
                   className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded"
                   target="_blank"
                 >
@@ -100,6 +103,7 @@ function MyWork() {
               <h4 className="animate-charcter2"> Exomoon Infotech</h4>
               <div className="row d-flex justify-content-center">
                 <a
+                  href="#"
                   className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded"
                   target="_blank"
                 >
@@ -121,6 +125,7 @@ function MyWork() {
               <h4 className="animate-charcter2"> Exomoon Infotech</h4>
               <div className="row d-flex justify-content-center">
                 <a
+                  href="#"
                   className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded"
                   target="_blank"
                 >

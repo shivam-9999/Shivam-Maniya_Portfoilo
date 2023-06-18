@@ -21,7 +21,7 @@ function Home() {
               </div>
             </div>
             <div className="col-lg-6 col-md-12 col-sm-12">
-              <img className="img-fluid" src={logo}></img>
+              <img className="img-fluid" alt="" src={logo}></img>
             </div>
           </div>
         </div>
