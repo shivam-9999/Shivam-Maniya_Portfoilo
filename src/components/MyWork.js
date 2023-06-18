@@ -35,6 +35,7 @@ function MyWork() {
                   href="https://github.com/shivam-9999/"
                   className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <AiFillGithub /> Source Code
                 </a>
@@ -61,6 +62,7 @@ function MyWork() {
                   href="https://github.com/shivam-9999/"
                   className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <AiFillGithub /> Source Code
                 </a>
@@ -82,6 +84,7 @@ function MyWork() {
                   href="https://github.com/shivam-9999/"
                   className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <AiFillGithub /> Source Code
                 </a>
@@ -106,6 +109,7 @@ function MyWork() {
                   href="https://github.com/shivam-9999/"
                   className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <AiFillGithub /> Source Code
                 </a>
@@ -128,6 +132,7 @@ function MyWork() {
                   href="https://github.com/shivam-9999/"
                   className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <AiFillGithub /> Source Code
                 </a>
@@ -153,6 +158,7 @@ function MyWork() {
                   href="https://github.com/shivam-9999/"
                   className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <AiFillGithub /> Source Code
                 </a>
