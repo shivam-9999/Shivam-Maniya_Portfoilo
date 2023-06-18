@@ -12,7 +12,6 @@ import {
   AiFillGithub,
   AiOutlineUnorderedList,
 } from "react-icons/ai";
-import { GrResume } from "react-icons/gr";
 import { Link, NavLink } from "react-router-dom";
 
 function Sidebar() {

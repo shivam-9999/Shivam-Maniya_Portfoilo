@@ -1,6 +1,5 @@
 import React, { Fragment } from "react";
-import { GrPrevious, GrNext } from "react-icons/gr";
-import { BsLaptop } from "react-icons/bs";
+
 import { AiFillGithub } from "react-icons/ai";
 
 function MyWork() {

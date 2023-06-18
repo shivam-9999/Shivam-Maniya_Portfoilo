@@ -14,11 +14,9 @@ import {
   SiPython,
   SiAmazonaws,
   SiFlask,
-  SiSqlite,
   SiMysql,
   SiAngular,
   SiJava,
-  SiPhp,
 } from "react-icons/si";
 
 function Skills() {

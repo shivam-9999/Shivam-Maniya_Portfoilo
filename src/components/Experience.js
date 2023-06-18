@@ -1,5 +1,4 @@
 import React, { Fragment } from "react";
-import { SiCodechef, SiHackerrank } from "react-icons/si";
 
 function Experience() {
   return (
