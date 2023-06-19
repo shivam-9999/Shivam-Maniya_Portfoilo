@@ -120,11 +120,9 @@ function MyWork() {
                 Smart Streetlight Fault Detection System{" "}
               </h4>
               <h6>
-                Constructed a system where more than 1000 players can play
-                different tournaments of PubG and able to create new tournament
-                with super admins permission.Designed a database and created 137
-                API to serve data for front-end and added authentication using
-                Firebase.
+                An Arduino based Smart Street light system has been proposed
+                which detect when light is turned off and inform to the system
+                administrator through SMS.
               </h6>
               <h4 className="animate-charcter2"> Exomoon Infotech</h4>
               <div className="row d-flex justify-content-center">
