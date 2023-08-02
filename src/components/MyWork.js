@@ -30,16 +30,6 @@ function MyWork() {
                 tools.
               </h6>
               <h4 className="animate-charcter2"> Freelancer</h4>
-              <div className="row d-flex justify-content-center">
-                <a
-                  href="https://github.com/shivam-9999/"
-                  className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <AiFillGithub /> Source Code
-                </a>
-              </div>
             </div>
             <div className="col-md-4 text-center my-2">
               <h4 className="ff-jose my-1 animate-charcter">
@@ -57,16 +47,6 @@ function MyWork() {
                 administering payment transactions.
               </h6>
               <h4 className="animate-charcter2"> Freelancer</h4>
-              <div className="row d-flex justify-content-center">
-                <a
-                  href="https://github.com/shivam-9999/"
-                  className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <AiFillGithub /> Source Code
-                </a>
-              </div>
             </div>
 
             <div className="col-md-4 text-center my-2">
@@ -79,16 +59,6 @@ function MyWork() {
                 Firebase.
               </h6>
               <h4 className="animate-charcter2"> Exomoon Infotech</h4>
-              <div className="row d-flex justify-content-center">
-                <a
-                  href="https://github.com/shivam-9999/"
-                  className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <AiFillGithub /> Source Code
-                </a>
-              </div>
             </div>
 
             <div className="col-md-4 text-center my-2">
@@ -104,16 +74,6 @@ function MyWork() {
                 information
               </h6>
               <h4 className="animate-charcter2"> Exomoon Infotech</h4>
-              <div className="row d-flex justify-content-center">
-                <a
-                  href="https://github.com/shivam-9999/"
-                  className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <AiFillGithub /> Source Code
-                </a>
-              </div>
             </div>
             <div className="col-md-4 text-center my-2">
               <h4 className="ff-jose my-1 animate-charcter">
@@ -125,16 +85,6 @@ function MyWork() {
                 administrator through SMS.
               </h6>
               <h4 className="animate-charcter2"> Exomoon Infotech</h4>
-              <div className="row d-flex justify-content-center">
-                <a
-                  href="https://github.com/shivam-9999/"
-                  className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <AiFillGithub /> Source Code
-                </a>
-              </div>
             </div>
             <div className="col-md-4 text-center my-2">
               <h4 className="ff-jose my-1 animate-charcter">
@@ -151,16 +101,6 @@ function MyWork() {
                 {" "}
                 Tvadartham Technology Pvt Ltd
               </h4>
-              <div className="row d-flex justify-content-center">
-                <a
-                  href="https://github.com/shivam-9999/"
-                  className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <AiFillGithub /> Source Code
-                </a>
-              </div>
             </div>
           </div>
         </div>
