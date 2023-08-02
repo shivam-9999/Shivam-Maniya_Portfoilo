@@ -30,7 +30,9 @@ function Experience() {
                 </li>
                 <li>
                   <h4 className="ff-jose my-1 text-red">Internship Trainee</h4>
-                  <h6 className="blue-label px-2 py-1">Dec 2020 - Sept 2020</h6>
+                  <h6 className="blue-label px-2 py-1">
+                    March 2020 - Aug 2020
+                  </h6>
                   <p className="m-0">
                     Tvadartham Technology Pvt Ltd, India · Internship
                   </p>
