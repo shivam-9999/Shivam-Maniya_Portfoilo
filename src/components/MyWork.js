@@ -1,7 +1,5 @@
 import React, { Fragment } from "react";
 
-import { AiFillGithub } from "react-icons/ai";
-
 function MyWork() {
   return (
     <Fragment>
