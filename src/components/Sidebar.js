@@ -19,7 +19,7 @@ function Sidebar() {
   //   window.open(
   //     "https://github.com/shivam-9999/shivam_resume/blob/main/Shivam_Maniya_Resume.pdf"
   //   );
-  };
+  // };
 
   return (
     <Fragment>
