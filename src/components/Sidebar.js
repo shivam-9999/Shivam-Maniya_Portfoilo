@@ -8,7 +8,7 @@ import {
 } from "react-icons/md";
 import {
   AiFillLinkedin,
-  AiOutlineFileText,
+  // AiOutlineFileText,
   AiFillGithub,
   AiOutlineUnorderedList,
 } from "react-icons/ai";
@@ -75,7 +75,7 @@ function Sidebar() {
                 <span className="ms-1 d-none d-sm-inline ">Experience</span>
               </NavLink>
             </li>
-            <li
+            {/* <li
               style={{ cursor: "pointer" }}
               onClick={onClickEvent}
               className="nav-item"
@@ -84,7 +84,7 @@ function Sidebar() {
                 <AiOutlineFileText color="white" className="fs-5" />{" "}
                 <span className="ms-1 d-none d-sm-inline ">Resume</span>
               </div>
-            </li>
+            </li> */}
           </ul>
           <hr />
           <div className="dropdown pb-4 dropup">
