@@ -15,10 +15,10 @@ import {
 import { Link, NavLink } from "react-router-dom";
 
 function Sidebar() {
-  const onClickEvent = () => {
-    window.open(
-      "https://github.com/shivam-9999/shivam_resume/blob/main/Shivam_Maniya_Resume.pdf"
-    );
+  // const onClickEvent = () => {
+  //   window.open(
+  //     "https://github.com/shivam-9999/shivam_resume/blob/main/Shivam_Maniya_Resume.pdf"
+  //   );
   };
 
   return (
